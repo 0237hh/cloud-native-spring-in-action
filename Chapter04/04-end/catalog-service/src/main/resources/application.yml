@@ -24,6 +24,7 @@ spring:
         max-interval: 2000 # 2s
         multiplier: 1.1
 
+# 액추에이터 엔드포인트로 사용 가능
 management:
   endpoints:
     web:
